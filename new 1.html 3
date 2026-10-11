@@ -1,0 +1,43 @@
+<html>
+<head> <title> My Webpage </title> </head>
+<body>
+    <h1> Welcome to my first website </h1>
+	
+	<div id="Week2">
+	<h2> 2nd Week </h2>
+	<p> Hello, my name is <b>Uzma </b>, <strong> Uzma </strong>
+	<br> this is me developing my own website </i>
+	<p> <u> I like programming </u> </p>
+	<p> I am a student with passion and dedication for this class </p>
+	<p> Currently, i am looking to connect with <ul> <li> fellow industry <li> take on freelance consulting projects </li>
+	</ul>
+	
+	<a href= "https://kedah.uitm.edu.my/"> Website UiTM Kedah </a>
+	</p>
+	_______________________________________
+	<p>#############################################</p>
+	
+	<div id= "Week3" style= "background-color:#9BD190;color:tomato;"
+	<img src= "https://i.pinimg.com/originals/09/0b/2b/090b2bf9607284715b4e9da635ab3253.jpg" height="30%">
+	
+	<h2 style="text-align:center;"> 3rd Week: Lets bake <b style="color:grey;font-size:14;background-color:yellow;"> Chocolate cookies </b></h2>
+	<h3 style="border: solid 1px black;"> Ingredients </h3>
+	<p> <ul style= "bakcground-color:blue;color:white;">
+	<li>Unsalted butter </li>
+	<li> Granulated sugar </li>
+	<li>Eggs </li>
+	<li> Vanilla </li>
+	<li>All-purpose flour<li/>
+	<li>Unsweetened cocoa powder</li>
+	<li>Baking soda </li>
+	<li>Salt </li>
+	<li>Flaky salt or coarse sugar,for sprinkling </ul>
+	
+	<h3> Steps </h3>
+	<ol style= "background-color: purple;">
+	<ol> <li>Cream butter and sugar </li>
+	<li> Add eggs and vanilla </li>
+	<li>Add dry ingredients</li>
+	<li>Portion and bake</li> </ol> 
+	
+	
